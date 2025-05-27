@@ -1,0 +1,24 @@
+{
+  "name": "monivo",
+  "version": "1.0.0",
+  "description": "Monivo is a smart personal finance app that helps you track expenses, manage budgets, and reach your financial goals. With payment system integration and intelligent spending analysis, it makes taking control of your money simple and effortless.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k1ntoha/Monivo.git"
+  },
+  "author": "k1ntoha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k1ntoha/Monivo/issues"
+  },
+  "homepage": "https://github.com/k1ntoha/Monivo#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.0",
+    "sequelize": "^6.37.7"
+  }
+}
