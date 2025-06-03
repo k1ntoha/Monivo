@@ -1,0 +1,20 @@
+{
+  "expense_categories": {
+    "necessities": [
+      "Housing",
+      "Food",
+      "Transport",
+      "Healthcare",
+      "Clothing",
+      "Education"
+    ],
+    "wants": ["Entertainment", "Travel", "Hobbies", "Gadgets", "Luxury items"],
+    "savings_investments": [
+      "Emergency fund",
+      "Investments",
+      "Retirement funds"
+    ],
+    "unexpected": ["Repairs", "Medical emergencies", "Gifts", "Fines"],
+    "debts": ["Loans", "Payday loans", "Credit card interest"]
+  }
+}
